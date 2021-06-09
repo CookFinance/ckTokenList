@@ -1,5 +1,8 @@
 {
-    "Inception Date": 1623222000000,
-    "Description": "Crypto Largecap Index (CLI) includes BTC and ETH, the two tokens with the largest circulating market capitalizations. These two tokens also represent the biggest and the best tokens in crypto and are the cornerstones of the entire industry.",
-    "chainUrl": "https://etherscan.io/address/0xA6156492fC79616035F644C71b01e3099819F8EC"
+  "Inception Date": 1623222000000,
+  "chainUrl": "https://etherscan.io/address/0xA6156492fC79616035F644C71b01e3099819F8EC",
+  "about": {
+    "en": "Crypto Largecap Index (CLI) includes BTC and ETH, the two tokens with the largest circulating market capitalizations. These two tokens also represent the biggest and the best tokens in crypto and are the cornerstones of the entire industry." ,
+    "cn": "Crypto Largecap Index (CLI) 包括很多很厲害的token"
   }
+}

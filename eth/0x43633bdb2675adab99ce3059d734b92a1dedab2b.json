@@ -1,5 +1,8 @@
 {
-    "Inception Date": 1623222000000,
-    "Description": "ETH DeFi Index (EDI) includes ETH and five DeFi tokens with the largest circulating market capitalizations on ETH. These prices of these tokens are indicators of the development of DeFi.",
-    "chainUrl": "https://etherscan.io/address/0x43633bDb2675aDaB99CE3059D734b92a1deDAb2b"
+  "Inception Date": 1623222000000,
+  "chainUrl": "https://etherscan.io/address/0x43633bDb2675aDaB99CE3059D734b92a1deDAb2b",
+  "about": {
+    "en": "ETH DeFi Index (EDI) includes ETH and five DeFi tokens with the largest circulating market capitalizations on ETH. These prices of these tokens are indicators of the development of DeFi." ,
+    "cn": "ETH DeFi Index (EDI) 包括很多很棒的token"
   }
+}
