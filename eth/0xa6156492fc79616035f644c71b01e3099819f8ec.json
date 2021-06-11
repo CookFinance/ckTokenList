@@ -6,74 +6,26 @@
     "cn": "Crypto Largecap Index (CLI) 包括很多很厲害的token"
   },
   "objective": {
-    "en": "Objective",
-    "cn": ""
-  },
-  "objective_description": {
     "en": "The Cook Largecap Index (CLI) is a digital asset index designed to track five of the largest tokens’ performance in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
     "cn": ""
   },
   "methodology": {
-    "en": "Methodology",
-    "cn": ""
-  },
-  "methodology_description": {
     "en": "The Cook Protocol team has used the following criteria to select what tokens will be included in the Cook Largecap Index (CLI):",
     "cn": ""
   },
-  "criteria1": {
-    "en": "The tokens must be available on Ethereum mainnet",
-    "cn": ""
-  },
-  "criteria2": {
-    "en": "The token must not be considered a security by the corresponding authorities across different jurisdictions",
-    "cn": ""
-  },
-  "criteria3": {
-    "en": "The selected tokens must have sufficient liquidity across a variety of trading platforms",
-    "cn": ""
-  },
-  "criteria4": {
-    "en": "The tokens must be ranked as top 100 tokens with the largest market cap on Coingecko and CoinMarketCap consistently",
-    "cn": ""
-  },
-  "criteria5": {
-    "en": "The tokens must have gone through audits and must comply with security best practices",
-    "cn": ""
-  },
-  "criteria6": {
-    "en": "The circulating market capitalizations of each project are used to calculate index composition",
-    "cn": ""
-  },
-  "allocation": {
-    "en": "Initial Allocation Breakdown:",
+  "criteria": {
+    "en": ["The tokens must be available on Ethereum mainnet","The token must not be considered a security by the corresponding authorities across different jurisdictions", "The selected tokens must have sufficient liquidity across a variety of trading platforms","The tokens must be ranked as top 100 tokens with the largest market cap on Coingecko and CoinMarketCap consistently", "The tokens must have gone through audits and must comply with security best practices", "The circulating market capitalizations of each project are used to calculate index composition"],
     "cn": ""
   },
   "tokens": {
-    "en": "Bitcoin Ethereum",
+    "en": ["Bitcoin", "Ethereum"],
     "cn": ""
   },
-  "calculation1": {
-    "en": "circulating_supply is the number of tokens circulating in the market. CoinGecko is used as a reference source",
-    "cn": ""
-  },
-  "calculation2": {
-    "en": "market_price is the market price of the token in USD. CoinGecko is used as a reference source",
-    "cn": ""
-  },
-  "calculation3": {
-    "en": "index_divisor is a constant used to compute the nominal value of the index. The divisor is XXX at inception",
-    "cn": ""
-  },
-  "calculation4": {
-    "en": "index_price is the spot value of the index token",
+  "calculation": {
+    "en": ["circulating_supply is the number of tokens circulating in the market. CoinGecko is used as a reference source", "market_price is the market price of the token in USD. CoinGecko is used as a reference source", "index_divisor is a constant used to compute the nominal value of the index. The divisor is XXX at inception", "index_price is the spot value of the index token"],
     "cn": ""
   },
   "operation":{
-    "en": "Operation",
-    "cn": ""
-  },
-  "operation_description":{
     "en": "The Cook Largecap Index (CLI) is a tokenized representation of the five largest projects in crypto.",
     "cn": ""
   },
