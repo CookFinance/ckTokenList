@@ -26,11 +26,11 @@
     "cn": ""
   },
   "operation":{
-    "en": "The Cook Largecap Index (CLI) is a tokenized representation of the five largest projects in crypto.",
+    "en": "The Cook Largecap Index (CLI) is a tokenized representation of the two largest projects in crypto.",
     "cn": ""
   },
   "rebalance":{
-    "en":"At the third week of the third month every quarter, the largecap index will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the monthly reconstitution, which will take place on the first business day of the month." ,
+    "en":"At the third week of the third month every quarter, the largecap index will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the quarterly reconstitution, which will take place on the first business day of the month." ,
     "cn": ""
   }
 }
