@@ -21,8 +21,8 @@
     "en": ["Bitcoin", "Ethereum"],
     "cn": ""
   },
-  "calculation": {
-    "en": ["circulating_supply is the number of tokens circulating in the market. CoinGecko is used as a reference source", "market_price is the market price of the token in USD. CoinGecko is used as a reference source", "index_divisor is a constant used to compute the nominal value of the index. The divisor is XXX at inception", "index_price is the spot value of the index token"],
+  "link": {
+    "en": "https://cook-protocol.gitbook.io/cook-finance/current-features-products/cli",
     "cn": ""
   },
   "operation":{
