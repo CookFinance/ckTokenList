@@ -21,7 +21,7 @@
     "en": ["ETH", "UNI", "LINK", "MATIC", "AAVE", "MAKER"],
     "cn": ""
   },
-  "calculation":{
+  "link":{
     "en": "https://cook-protocol.gitbook.io/cook-finance/current-features-products/edi",
     "cn": ""
   },
