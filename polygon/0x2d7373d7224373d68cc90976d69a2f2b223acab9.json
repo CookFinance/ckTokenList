@@ -6,7 +6,7 @@
       "cn": "主流币指数（CLI）包括流通市值最大的两个代币-比特币和以太坊，他们代表了加密货币中最大和最好的代币，是整个行业的基石。"
     },
     "objective": {
-      "en": "The Crypto Largecap Index (CLI) is a digital asset index designed to track five of the largest tokens’ performance in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
+      "en": "The Crypto Largecap Index (CLI) is a digital asset index designed to track the largest tokens’ performance in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
       "cn": "主流币指数（CLI）是一个数字资产指数，旨在跟踪加密行业中市值最大的代币的表现。该指数通过对代币流通量进行加权计算得来。"
     },
     "methodology": {
