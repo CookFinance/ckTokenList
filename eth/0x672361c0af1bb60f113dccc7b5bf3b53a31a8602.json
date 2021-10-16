@@ -1,0 +1,36 @@
+{
+    "Inception Date": 1633824452000,
+    "chainUrl": "https://etherscan.io/address/0xA6156492fC79616035F644C71b01e3099819F8EC",
+    "about": {
+      "en": "Crypto NFT Index (CNI) includes the tokens of the top NFT projects on Ethereum mainnet.",
+      "cn": "主流币指数（CLI）包括流通市值最大的两个代币-比特币和以太坊，他们代表了加密货币中最大和最好的代币，是整个行业的基石。"
+    },
+    "objective": {
+      "en": "The Crypto NFT Index (CNI) is a digital asset index designed to track the performance of the top NFT projects in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
+      "cn": "主流币指数（CLI）是一个数字资产指数，旨在跟踪加密行业中市值最大的代币的表现。该指数通过对代币流通量进行加权计算得来。"
+    },
+    "methodology": {
+      "en": "The following criteria is used to select what tokens will be included in the Crypto NFT Index (CNI):",
+      "cn": "主流币指数（CLI）是一个数字资产指数，旨在跟踪加密行业中市值最大的代币的表现。该指数通过对代币流通量进行加权计算得来。"
+    },
+    "criteria": {
+      "en": ["The tokens must be available on Ethereum mainnet","The token must not be considered a security by the corresponding authorities across different jurisdictions", "The selected tokens must have sufficient liquidity across a variety of trading platforms","The tokens must be ranked as top 100 tokens with the largest market cap on Coingecko and CoinMarketCap consistently", "The tokens must have gone through audits and must comply with security best practices", "The circulating market capitalizations of each project are used to calculate index composition"],
+      "cn": ["上线以太坊主网", "在任何司法管辖区都不被视为证券", "在各交易平台上具有充足的流动性", "在Coingecko和CoinMarketCap上始终位于市值最大的前10名代币之列", "必须通过主流机构的审计"]
+    },
+    "tokens": {
+      "en": ["Bitcoin", "Ethereum"],
+      "cn": ["比特币", "以太坊"]
+    },
+    "link": {
+      "en": "https://cook-protocol.gitbook.io/english/current-features-products/cli",
+      "cn": "https://cook-protocol.gitbook.io/chinese/current-features-products/cli"
+    },
+    "operation":{
+      "en": "The Crypto NFT Index (CNI) is a tokenized representation of the largest NFT projects in crypto.",
+      "cn": "主流币指数（CLI）是加密领域最大的两个项目的通证化表示。"
+    },
+    "rebalance":{
+      "en":"At the third week of the third month every quarter, the largecap index will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the quarterly reconstitution, which will take place on the first business day of the month." ,
+      "cn": "每季度最后一个月的第三周，主流币指数将被评估，用来决定是否调整指数的构成。指数中代币的流通量将基于CoinGecko的数据重新计算。在每个季度的指数调整中，指数权重会变更、代币的增加或删除将在此期间进行调整。"
+    }
+  }
