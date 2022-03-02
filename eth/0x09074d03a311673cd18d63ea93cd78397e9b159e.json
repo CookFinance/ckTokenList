@@ -1,36 +1,36 @@
 {
-    "Inception Date": 1633824452000,
-    "chainUrl": "https://etherscan.io/address/0x09074d03a311673cd18d63ea93cd78397e9b159e",
-    "about": {
-      "en": "Crypto Metaverse Index (CMI) includes the tokens of the top metaverse projects on Ethereum mainnet. ",
-      "cn": "元宇宙指数（CMI）包括以太坊主网上顶级元宇宙项目的代币。"
-    },
-    "objective": {
-      "en": "The Crypto Metaverse Index (CMI) is a digital asset index designed to track the performance of the top metaverse projects in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
-      "cn": "元宇宙指数 (CMI) 是一种数字资产指数，旨在跟踪加密行业中顶级元宇宙项目的表现。该指数根据每个代币的流通供应价值加权计算得来。"
-    },
-    "methodology": {
-      "en": "The following criteria is used to select what tokens will be included in the Crypto Metaverse Index (CMI):",
-      "cn": "以下标准用于选择将包含在元宇宙指数 (CMI) 中的代币："
-    },
-    "criteria": {
-      "en": ["The tokens must be available on Ethereum mainnet","The token must not be considered a security by the corresponding authorities across different jurisdictions", "The selected tokens must have sufficient liquidity across a variety of trading platforms", "The tokens must have gone through audits and must comply with security best practices", "The circulating market capitalizations of each project are used to calculate index composition"],
-      "cn": ["上线以太坊主网", "在任何司法管辖区都不被视为证券", "在各交易平台上具有充足的流动性", "必须通过主流机构的审计", "以各项目的流通市值计算指数构成"]
-    },
-    "tokens": {
-      "en": ["Bitcoin", "Ethereum"],
-      "cn": ["比特币", "以太坊"]
-    },
-    "link": {
-      "en": "https://cook-protocol.gitbook.io/english/current-features-products/cmi",
-      "cn": "https://cook-protocol.gitbook.io/chinese/current-features-products/cmi"
-    },
-    "operation":{
-      "en": "The Crypto Metaverse Index (CMI) is a tokenized representation of the largest metaverse projects in crypto.",
-      "cn": "加密元宇宙指数（CMI）是包括以太坊主网上顶级元宇宙项目的代币。"
-    },
-    "rebalance":{
-      "en":"At the third week of each month, the Crypto Metaverse Index (CMI) will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the monthly reconstitution, which will take place on the first business day of the month." ,
-      "cn": "在每个月的第三周，将对元宇宙指数（CMI）进行评估，并且可能会在指数中添加和删除代币。因此，在指数组成更新后，将根据来自 CoinGecko 的数据重新计算每个组件代币的循环供应量。 指数组成被调整、添加、删除或不变。新的指数权重、增减将在每月的第一个营业日进行的每月重组期间纳入指数。"
-    }
+  "Inception Date": 1633824452000,
+  "chainUrl": "https://etherscan.io/address/0x09074d03a311673cd18d63ea93cd78397e9b159e",
+  "about": {
+    "en": "Crypto Metaverse Index (CMI) includes the tokens of the top metaverse projects on Ethereum mainnet. ",
+    "zh": "元宇宙指數（CMI）包括以太坊主網上頂級元宇宙項目的代幣。"
+  },
+  "objective": {
+    "en": "The Crypto Metaverse Index (CMI) is a digital asset index designed to track the performance of the top metaverse projects in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
+    "zh": "元宇宙指數 (CMI) 是一種數字資產指數，旨在跟蹤加密行業中頂級元宇宙項目的表現。該指數根據每個代幣的流通供應價值加權計算得來。"
+  },
+  "methodology": {
+    "en": "The following criteria is used to select what tokens will be included in the Crypto Metaverse Index (CMI):",
+    "zh": "以下標準用於選擇將包含在元宇宙指數 (CMI) 中的代幣："
+  },
+  "criteria": {
+    "en": ["The tokens must be available on Ethereum mainnet","The token must not be considered a security by the corresponding authorities across different jurisdictions", "The selected tokens must have sufficient liquidity across a variety of trading platforms", "The tokens must have gone through audits and must comply with security best practices", "The circulating market capitalizations of each project are used to calculate index composition"],
+    "zh": ["上線以太坊主網", "在任何司法管轄區都不被視為證券", "在各交易平台上具有充足的流動性", "必須通過主流機構的審計", "以各項目的流通市值計算指數構成"]
+  },
+  "tokens": {
+    "en": ["Bitcoin", "Ethereum"],
+    "zh": ["比特幣", "以太坊"]
+  },
+  "link": {
+    "en": "https://cook-protocol.gitbook.io/english/current-features-products/cmi",
+    "zh": "https://cook-protocol.gitbook.io/chinese/current-features-products/cmi"
+  },
+  "operation":{
+    "en": "The Crypto Metaverse Index (CMI) is a tokenized representation of the largest metaverse projects in crypto.",
+    "zh": "加密元宇宙指數（CMI）是包括以太坊主網上頂級元宇宙項目的代幣。"
+  },
+  "rebalance":{
+    "en":"At the third week of each month, the Crypto Metaverse Index (CMI) will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the monthly reconstitution, which will take place on the first business day of the month." ,
+    "zh": "在每個月的第三周，將對元宇宙指數（CMI）進行評估，並且可能會在指數中添加和刪除代幣。因此，在指數組成更新後，將根據來自 CoinGecko 的數據重新計算每個組件代幣的循環供應量。 指數組成被調整、添加、刪除或不變。新的指數權重、增減將在每月的第一個營業日進行的每月重組期間納入指數。"
   }
+}

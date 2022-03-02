@@ -1,36 +1,36 @@
 {
-    "Inception Date": 1633824452000,
-    "chainUrl": "https://etherscan.io/address/0x43320d0f881ad776bc0eac0a14860b46f8368953",
-    "about": {
-      "en": "Crypto Derivative Index (CDI) includes the tokens of the top derivatives projects on Ethereum mainnet.",
-      "cn": "加密衍生性商品指数（CDI）包括以太坊主网上顶级衍生性商品项目的代币。"
-    },
-    "objective": {
-      "en": "The Crypto Derivative Index (CDI) is a digital asset index designed to track the performance of the top derivatives projects in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
-      "cn": "加密衍生性商品指数（CDI）是一个数字资产指数，旨在跟踪加密行业中市值最大的代币的表现。该指数通过对代币流通量进行加权计算得来。"
-    },
-    "methodology": {
-      "en": "The following criteria is used to select what tokens will be included in the Crypto Derivative Index (CDI):",
-      "cn": "加密衍生性商品指数（CDI）用了以下标准来选择代币："
-    },
-    "criteria": {
-      "en": ["The tokens must be available on Ethereum mainnet","The token must not be considered a security by the corresponding authorities across different jurisdictions", "The selected tokens must have sufficient liquidity across a variety of trading platforms", "The tokens must have gone through audits and must comply with security best practices", "The circulating market capitalizations of each project are used to calculate index composition"],
-      "cn": ["上线以太坊主网", "在任何司法管辖区都不被视为证券", "在各交易平台上具有充足的流动性", "必须通过主流机构的审计", "以各项目的流通市值计算指数构成"]
-    },
-    "tokens": {
-      "en": ["Bitcoin", "Ethereum"],
-      "cn": ["比特币", "以太坊"]
-    },
-    "link": {
-      "en": "https://cook-protocol.gitbook.io/english/current-features-products/CDI",
-      "cn": "https://cook-protocol.gitbook.io/chinese/current-features-products/CDI"
-    },
-    "operation":{
-      "en": "The Crypto Derivative Index (CDI) is a tokenized representation of the largest derivatives related projects in crypto.",
-      "cn": "加密衍生性商品指数 (CDI) 是加密领域最大的衍生性商品相关项目的代币化表示。"
-    },
-    "rebalance":{
-      "en":"At the third week of each month, the Crypto Derivative Index (CDI) will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the monthly reconstitution, which will take place on the first business day of the month." ,
-      "cn": "每季度最后一个月的第三周，主流币指数将被评估，用来决定是否调整指数的构成。指数中代币的流通量将基于CoinGecko的数据重新计算。在每个季度的指数调整中，指数权重会变更、代币的增加或删除将在此期间进行调整。"
-    }
+  "Inception Date": 1633824452000,
+  "chainUrl": "https://etherscan.io/address/0x43320d0f881ad776bc0eac0a14860b46f8368953",
+  "about": {
+    "en": "Crypto Derivative Index (CDI) includes the tokens of the top derivatives projects on Ethereum mainnet.",
+    "zh": "加密衍生性商品指數（CDI）包括以太坊主網上頂級衍生性商品項目的代幣。"
+  },
+  "objective": {
+    "en": "The Crypto Derivative Index (CDI) is a digital asset index designed to track the performance of the top derivatives projects in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
+    "zh": "加密衍生性商品指數（CDI）是一個數字資產指數，旨在跟蹤加密行業中市值最大的代幣的表現。該指數通過對代幣流通量進行加權計算得來。"
+  },
+  "methodology": {
+    "en": "The following criteria is used to select what tokens will be included in the Crypto Derivative Index (CDI):",
+    "zh": "加密衍生性商品指數（CDI）用了以下標準來選擇代幣："
+  },
+  "criteria": {
+    "en": ["The tokens must be available on Ethereum mainnet","The token must not be considered a security by the corresponding authorities across different jurisdictions", "The selected tokens must have sufficient liquidity across a variety of trading platforms", "The tokens must have gone through audits and must comply with security best practices", "The circulating market capitalizations of each project are used to calculate index composition"],
+    "zh": ["上線以太坊主網", "在任何司法管轄區都不被視為證券", "在各交易平台上具有充足的流動性", "必須通過主流機構的審計", "以各項目的流通市值計算指數構成"]
+  },
+  "tokens": {
+    "en": ["Bitcoin", "Ethereum"],
+    "zh": ["比特幣", "以太坊"]
+  },
+  "link": {
+    "en": "https://cook-protocol.gitbook.io/english/current-features-products/CDI",
+    "zh": "https://cook-protocol.gitbook.io/chinese/current-features-products/CDI"
+  },
+  "operation":{
+    "en": "The Crypto Derivative Index (CDI) is a tokenized representation of the largest derivatives related projects in crypto.",
+    "zh": "加密衍生性商品指數 (CDI) 是加密領域最大的衍生性商品相關項目的代幣化表示。"
+  },
+  "rebalance":{
+    "en":"At the third week of each month, the Crypto Derivative Index (CDI) will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the monthly reconstitution, which will take place on the first business day of the month." ,
+    "zh": "每季度最後一個月的第三周，主流幣指數將被評估，用來決定是否調整指數的構成。指數中代幣的流通量將基於CoinGecko的數據重新計算。在每個季度的指數調整中，指數權重會變更、代幣的增加或刪除將在此期間進行調整。"
   }
+}

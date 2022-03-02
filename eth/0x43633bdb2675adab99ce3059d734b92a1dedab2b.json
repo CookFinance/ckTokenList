@@ -3,34 +3,34 @@
   "chainUrl": "https://etherscan.io/address/0x43633bDb2675aDaB99CE3059D734b92a1deDAb2b",
   "about": {
     "en": "ETH DeFi Index (EDI) includes the DeFi projects that have the largest circulating market capitalizations on Ethereum blockchain." ,
-    "cn": "以太坊DeFi指数（EDI）包括了以太坊链上流通市值最大的DeFi项目。"
+    "zh": "以太坊DeFi指數（EDI）包括了以太坊鏈上流通市值最大的DeFi項目。"
   },
   "objective":{
     "en": "The ETH DeFi Index (EDI) is an index designed to track the performance of the top DeFi projects. The index is weighted based on the value of each token’s circulating supply.",
-    "cn": "以太坊DeFi指数（EDI）是一个数字资产指数，旨在跟踪以太坊链上DeFi行业的表现。该指数通过对代币流通量进行加权计算得来。"
+    "zh": "以太坊DeFi指數（EDI）是一個數字資產指數，旨在跟蹤以太坊鏈上DeFi行業的表現。該指數通過對代幣流通量進行加權計算得來。"
   },
   "methodology":{
     "en": "The following criteria is used to select what tokens will be included in the ETH DeFi Index (EDI), the circulating market capitalizations of each project are used to calculate index composition. :",
-    "cn": "以太坊DeFi指数（EDI）用了以下标准来选择代币："
+    "zh": "以太坊DeFi指數（EDI）用了以下標準來選擇代幣："
   },
   "criteria":{
     "en": ["The tokens are available on Ethereum mainnet", "The token must not be considered a security by the corresponding authorities across different jurisdictions", "The selected tokens must have sufficient liquidity across a variety of trading platforms", "The tokens must be ranked as top 50 tokens with the largest market cap on Coingecko and CoinMarketCap consistently"],
-    "cn": ["上线以太坊主网", "在任何司法管辖区都不被视为证券", "在各交易平台上具有充足的流动性", "在Coingecko和CoinMarketCap上始终位于市值最大的前100名代币之列", "必须通过主流机构的审计"]
+    "zh": ["上線以太坊主網", "在任何司法管轄區都不被視為證券", "在各交易平台上具有充足的流動性", "在Coingecko和CoinMarketCap上始終位於市值最大的前100名代幣之列", "必須通過主流機構的審計"]
   },
   "tokens":{
     "en": ["ETH", "UNI", "LINK", "MATIC", "AAVE", "MAKER"],
-    "cn": ["以太坊", "Uniswap", "Chainlink", "Polygon", "AAVE", "MAKER"]
+    "zh": ["以太坊", "Uniswap", "Chainlink", "Polygon", "AAVE", "MAKER"]
   },
   "link":{
     "en": "https://cook-protocol.gitbook.io/english/current-features-products/edi",
-    "cn": "https://cook-protocol.gitbook.io/chinese/current-features-products/edi"
+    "zh": "https://cook-protocol.gitbook.io/chinese/current-features-products/edi"
   },
   "operation":{
     "en": "The ETH DeFi Index (EDI) is a tokenized representation of the top DeFi projects on Ethereum.",
-    "cn": "以太坊DeFi指数（EDI）是以太坊链上最大的DeFi项目的通证化表示。"
+    "zh": "以太坊DeFi指數（EDI）是以太坊鏈上最大的DeFi項目的通證化表示。"
   },
   "rebalance":{
     "en":" At the third week of the third month, the ETH DeFi Index (EDI) will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the monthly reconstitution, which will take place on the first business day of the month.",
-    "cn": "每一个月的第三周，EDI指数将被评估，用来决定是否调整指数的构成。指数中代币的流通量将基于CoinGecko的数据重新计算。在每个月的指数调整中，指数权重会变更、代币的增加或删除将在此期间进行调整。"
+    "zh": "每一個月的第三周，EDI指數將被評估，用來決定是否調整指數的構成。指數中代幣的流通量將基於CoinGecko的數據重新計算。在每個月的指數調整中，指數權重會變更、代幣的增加或刪除將在此期間進行調整。"
   }
 }

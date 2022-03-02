@@ -3,7 +3,7 @@
     "chainUrl": "https://snowtrace.io/address/0x6F4a6a855412635668d9EBc69977870a637882CE",
     "about": {
       "en": "Yield Bearing Mega Cap Index (YB-MCI) includes the top two tokens that have the largest circulating market capitalizations: BTC and ETH. BTC and ETH are deposited to external yield aggregator protocol to gain interest.",
-      "cn": "主流币指数（CMCI）包括流通市值最大的两个代币-比特币和以太坊，他们代表了加密货币中最大和最好的代币，是整个行业的基石。"
+      "zh": "主流幣指數（CMCI）包括流通市值最大的兩個代幣-比特幣和以太坊，他們代表了加密貨幣中最大和最好的代幣，是整個行業的基石。"
     }
   }
   

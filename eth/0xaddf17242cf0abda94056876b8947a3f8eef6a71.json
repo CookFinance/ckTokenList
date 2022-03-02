@@ -1,36 +1,36 @@
 {
-    "Inception Date": 1633824452000,
-    "chainUrl": "https://etherscan.io/address/0xA6156492fC79616035F644C71b01e3099819F8EC",
-    "about": {
-      "en": "Crypto Infrastructure Index (CII) includes the tokens of the top infrastructure related projects on Ethereum mainnet. These projects represent the cornerstone of the entire Ethereum ecosystem.",
-      "cn": "基础建设指数（CII）包括以太坊主网上顶级基础建设相关项目的代币。这些项目代表了整个以太坊生态系统的基石。"
-    },
-    "objective": {
-      "en": "The Crypto Infrastructure Index (CII) is a digital asset index designed to track the performance of the top infrastructure related projects in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
-      "cn": "基础建设指数 (CII) 是一种数字资产指数，旨在跟踪加密行业中顶级基础建设相关项目的表现。该指数根据每个代币的流通供应价值加权计算而得。"
-    },
-    "methodology": {
-      "en": "The following criteria is used to select what tokens will be included in the Crypto Infrastructure Index (CII):",
-      "cn": "以下标准用于选择将包含在基础建设指数 (CII) 中的代币"
-    },
-    "criteria": {
-      "en": ["The tokens must be available on Ethereum mainnet","The token must not be considered a security by the corresponding authorities across different jurisdictions", "The selected tokens must have sufficient liquidity across a variety of trading platforms","The tokens must be ranked as top 100 tokens with the largest market cap on Coingecko and CoinMarketCap consistently", "The tokens must have gone through audits and must comply with security best practices", "The circulating market capitalizations of each project are used to calculate index composition"],
-      "cn": ["上线以太坊主网", "在任何司法管辖区都不被视为证券", "在各交易平台上具有充足的流动性", "必须通过主流机构的审计", "以各项目的流通市值计算指数构成"]
-    },
-    "tokens": {
-      "en": ["Bitcoin", "Ethereum"],
-      "cn": ["比特币", "以太坊"]
-    },
-    "link": {
-      "en": "https://cook-protocol.gitbook.io/english/current-features-products/cli",
-      "cn": "https://cook-protocol.gitbook.io/chinese/current-features-products/cli"
-    },
-    "operation":{
-      "en": "The Crypto Infrastructure Index (CII) is a tokenized representation of the largest infrastructure related projects in crypto.",
-      "cn": "基础建设指数 (CII) 是加密领域最大的基础建设相关项目的代币化表示。"
-    },
-    "rebalance":{
-      "en":"At the third week of each month, the Crypto Infrastructure Index (CII) will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the monthly reconstitution, which will take place on the first business day of the month." ,
-      "cn": "在每个月的第三周，将对加密基础建设指数（CII）进行评估，并且可能会在指数中添加和删除代币。因此，在指数组成更新后，将根据来自 CoinGecko 的数据重新计算每个组件代币的循环供应量。 指数组成被调整、添加、删除或不变。新的指数权重、增减将在每月的第一个营业日进行的每月重组期间纳入指数。"
-    }
+  "Inception Date": 1633824452000,
+  "chainUrl": "https://etherscan.io/address/0xA6156492fC79616035F644C71b01e3099819F8EC",
+  "about": {
+    "en": "Crypto Infrastructure Index (CII) includes the tokens of the top infrastructure related projects on Ethereum mainnet. These projects represent the cornerstone of the entire Ethereum ecosystem.",
+    "zh": "基礎建設指數（CII）包括以太坊主網上頂級基礎建設相關項目的代幣。這些項目代表了整個以太坊生態系統的基石。"
+  },
+  "objective": {
+    "en": "The Crypto Infrastructure Index (CII) is a digital asset index designed to track the performance of the top infrastructure related projects in the crypto industry. The index is weighted based on the value of each token’s circulating supply.",
+    "zh": "基礎建設指數 (CII) 是一種數字資產指數，旨在跟蹤加密行業中頂級基礎建設相關項目的表現。該指數根據每個代幣的流通供應價值加權計算而得。"
+  },
+  "methodology": {
+    "en": "The following criteria is used to select what tokens will be included in the Crypto Infrastructure Index (CII):",
+    "zh": "以下標準用於選擇將包含在基礎建設指數 (CII) 中的代幣"
+  },
+  "criteria": {
+    "en": ["The tokens must be available on Ethereum mainnet","The token must not be considered a security by the corresponding authorities across different jurisdictions", "The selected tokens must have sufficient liquidity across a variety of trading platforms","The tokens must be ranked as top 100 tokens with the largest market cap on Coingecko and CoinMarketCap consistently", "The tokens must have gone through audits and must comply with security best practices", "The circulating market capitalizations of each project are used to calculate index composition"],
+    "zh": ["上線以太坊主網", "在任何司法管轄區都不被視為證券", "在各交易平台上具有充足的流動性", "必須通過主流機構的審計", "以各項目的流通市值計算指數構成"]
+  },
+  "tokens": {
+    "en": ["Bitcoin", "Ethereum"],
+    "zh": ["比特幣", "以太坊"]
+  },
+  "link": {
+    "en": "https://cook-protocol.gitbook.io/english/current-features-products/cli",
+    "zh": "https://cook-protocol.gitbook.io/chinese/current-features-products/cli"
+  },
+  "operation":{
+    "en": "The Crypto Infrastructure Index (CII) is a tokenized representation of the largest infrastructure related projects in crypto.",
+    "zh": "基礎建設指數 (CII) 是加密領域最大的基礎建設相關項目的代幣化表示。"
+  },
+  "rebalance":{
+    "en":"At the third week of each month, the Crypto Infrastructure Index (CII) will be evaluated and tokens might be added and deleted from the index. As a result, the circulating supply of each component token will be recalculated based on the data from CoinGecko after updates on the index composition. The index components are adjusted, added, deleted or unchanged. New index weights, additions and deletions are incorporated into the index during the monthly reconstitution, which will take place on the first business day of the month." ,
+    "zh": "在每個月的第三周，將對加密基礎建設指數（CII）進行評估，並且可能會在指數中添加和刪除代幣。因此，在指數組成更新後，將根據來自 CoinGecko 的數據重新計算每個組件代幣的循環供應量。 指數組成被調整、添加、刪除或不變。新的指數權重、增減將在每月的第一個營業日進行的每月重組期間納入指數。"
   }
+}
